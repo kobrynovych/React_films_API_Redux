@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/React_films_API_Redux/static/css/main.e27689f8.css",
-    "main.js": "/React_films_API_Redux/static/js/main.ecedb8d5.js",
-    "static/js/631.2e0df5fc.chunk.js": "/React_films_API_Redux/static/js/631.2e0df5fc.chunk.js",
-    "static/js/173.94ceb542.chunk.js": "/React_films_API_Redux/static/js/173.94ceb542.chunk.js",
-    "static/js/956.6ce081bb.chunk.js": "/React_films_API_Redux/static/js/956.6ce081bb.chunk.js",
-    "static/js/787.a874c0b1.chunk.js": "/React_films_API_Redux/static/js/787.a874c0b1.chunk.js",
-    "index.html": "/React_films_API_Redux/index.html",
-    "main.e27689f8.css.map": "/React_films_API_Redux/static/css/main.e27689f8.css.map",
-    "main.ecedb8d5.js.map": "/React_films_API_Redux/static/js/main.ecedb8d5.js.map",
-    "631.2e0df5fc.chunk.js.map": "/React_films_API_Redux/static/js/631.2e0df5fc.chunk.js.map",
-    "173.94ceb542.chunk.js.map": "/React_films_API_Redux/static/js/173.94ceb542.chunk.js.map",
-    "956.6ce081bb.chunk.js.map": "/React_films_API_Redux/static/js/956.6ce081bb.chunk.js.map",
-    "787.a874c0b1.chunk.js.map": "/React_films_API_Redux/static/js/787.a874c0b1.chunk.js.map"
+    "main.css": "https://igorkob.github.io/React_films_API_Redux/static/css/main.e27689f8.css",
+    "main.js": "https://igorkob.github.io/React_films_API_Redux/static/js/main.16284f2b.js",
+    "static/js/631.2e0df5fc.chunk.js": "https://igorkob.github.io/React_films_API_Redux/static/js/631.2e0df5fc.chunk.js",
+    "static/js/173.94ceb542.chunk.js": "https://igorkob.github.io/React_films_API_Redux/static/js/173.94ceb542.chunk.js",
+    "static/js/956.6ce081bb.chunk.js": "https://igorkob.github.io/React_films_API_Redux/static/js/956.6ce081bb.chunk.js",
+    "static/js/787.a874c0b1.chunk.js": "https://igorkob.github.io/React_films_API_Redux/static/js/787.a874c0b1.chunk.js",
+    "index.html": "https://igorkob.github.io/React_films_API_Redux/index.html",
+    "main.e27689f8.css.map": "https://igorkob.github.io/React_films_API_Redux/static/css/main.e27689f8.css.map",
+    "main.16284f2b.js.map": "https://igorkob.github.io/React_films_API_Redux/static/js/main.16284f2b.js.map",
+    "631.2e0df5fc.chunk.js.map": "https://igorkob.github.io/React_films_API_Redux/static/js/631.2e0df5fc.chunk.js.map",
+    "173.94ceb542.chunk.js.map": "https://igorkob.github.io/React_films_API_Redux/static/js/173.94ceb542.chunk.js.map",
+    "956.6ce081bb.chunk.js.map": "https://igorkob.github.io/React_films_API_Redux/static/js/956.6ce081bb.chunk.js.map",
+    "787.a874c0b1.chunk.js.map": "https://igorkob.github.io/React_films_API_Redux/static/js/787.a874c0b1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e27689f8.css",
-    "static/js/main.ecedb8d5.js"
+    "static/js/main.16284f2b.js"
   ]
 }
